@@ -5,4 +5,4 @@
 
 | 기술 | 자료 | 참고 기간(MM/yy) | 비고 |
 | -- | -- | -- | --|
-| MVVM |- https://bumjae.tistory.com/47 | 09/22 | |
+| MVVM |- [bumjae](https://bumjae.tistory.com/47) <br/> - [developer.viewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)<br/>- [developer.dataBinding](https://developer.android.com/topic/libraries/data-binding)<br/>- [developer.codeLab](https://developer.android.com/codelabs/android-databinding#0)| 09/22 | |
