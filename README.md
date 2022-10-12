@@ -3,9 +3,11 @@
 
 ---
 
-## -
-- [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
+# 개발 자료
 
+## 참고 기술
+
+- [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
 
 ## 2022/09
 
@@ -22,3 +24,27 @@
 | Context | - [mrgamza](https://mrgamza.tistory.com/197) | 10/22 | |
 | DayNight | - [brandi](https://labs.brandi.co.kr/2019/12/19/kimby.html#h5) | 10/22 | |
 | Preference | - [android developer](https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko)| 10/22 | [Deprecated 대응 참고 자료](https://dongdonghello.tistory.com/11) |
+
+---
+
+# TODO
+
+- [Stream Chat](https://velog.io/@skydoves/android-chat-tutorial-stream-chat-sdk)
+
+- [WhatsApp](https://velog.io/@skydoves/build-whatsapp-clone)
+
+
+---
+
+# 안드로이드 로드맵
+
+## Part 1, The Android Platform
+- https://velog.io/@skydoves/2022-android-developer-roadmap-part1
+
+## Part 2, App Components
+- https://velog.io/@skydoves/2022-android-developer-roadmap-part2
+
+## Part 3, Navigation and Jetpack
+- https://velog.io/@skydoves/2022-android-developer-roadmap-part3
+
+...
