@@ -27,6 +27,7 @@
 | Circle ImageView | - [jeong9216](https://jeong9216.tistory.com/9) | 10/12 | |
 | Gradle | - [kotlinWorld](https://kotlinworld.com/311) | 10/13 | |
 | KTS Build Configuration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
+| groovy -> kts build tool migration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
 
 ---
 
