@@ -25,6 +25,7 @@
 | DayNight | - [brandi](https://labs.brandi.co.kr/2019/12/19/kimby.html#h5) | - | |
 | Preference | - [android developer](https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko)| 10/22 | [Deprecated 대응 참고 자료](https://dongdonghello.tistory.com/11) |
 | Circle ImageView | - [jeong9216](https://jeong9216.tistory.com/9) | 10/12 | |
+| Gradle | - [kotlinWorld](https://kotlinworld.com/311) | 10/13 | |
 | KTS Build Configuration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
 
 ---
