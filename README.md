@@ -17,7 +17,7 @@
 
 ## 2022/10
 
-| 기술 | 자료 | 참고 기간(MM/dd) | 비고 |
+| 기술 | 자료 | 참고 (MM/dd) | 비고 |
 | -- | -- | -- | -- |
 | Exception Processing |- [developer88](https://developer88.tistory.com/257)| - | |
 | Scope Function | - [limgyumin](https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%9D%98-apply-with-let-also-run-%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-4a517292df29) | - | |
