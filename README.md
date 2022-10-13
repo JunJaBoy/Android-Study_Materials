@@ -23,7 +23,7 @@
 | Scope Function | - [limgyumin](https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%9D%98-apply-with-let-also-run-%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-4a517292df29) | - | |
 | Context | - [mrgamza](https://mrgamza.tistory.com/197) | - | |
 | DayNight | - [brandi](https://labs.brandi.co.kr/2019/12/19/kimby.html#h5) | - | |
-| Preference | - [android developer](https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko)| 10/22 | [Deprecated 대응 참고 자료](https://dongdonghello.tistory.com/11) |
+| Preference | - [android developer](https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko)| - | [Deprecated 대응 참고 자료](https://dongdonghello.tistory.com/11) |
 | Circle ImageView | - [jeong9216](https://jeong9216.tistory.com/9) | 10/12 | |
 | Gradle | - [kotlinWorld](https://kotlinworld.com/311) | 10/13 | |
 | KTS Build Configuration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
