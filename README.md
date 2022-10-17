@@ -28,6 +28,7 @@
 | Gradle | - [kotlinWorld](https://kotlinworld.com/311) | 10/13 | |
 | KTS Build Configuration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
 | groovy -> kts build tool migration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | [버그 수정 참고 자료](https://yjyoon-dev.github.io/android/2022/07/01/android-06/) |
+| Fragment에서 container(Activity)의 context 사용 | - [curryyou](https://curryyou.tistory.com/m/386) | 10/17 | |
 
 ---
 
