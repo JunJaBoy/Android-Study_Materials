@@ -31,6 +31,7 @@
 | Fragment에서 container(Activity)의 context 사용 | - [curryyou](https://curryyou.tistory.com/m/386) | 10/17 | |
 | Reflection in Kotlin | - [harrythegreat](https://medium.com/harrythegreat/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%8D%94%EB%B8%94%EC%BD%9C%EB%A1%A0-%EC%B0%B8%EC%A1%B0-73ff25484586) | 10/19 | Kotlin |
 | Kotlin Delegate Pattern, by | - [zerogdev](https://zerogdev.blogspot.com/2019/06/kotlin-by.html) | 10/20 | Kotlin |
+| Kotlin Property | - [woooooooooooak](https://wooooooak.github.io/kotlin/2019/05/24/property/) | 10/21 | Kotlin |
 
 ---
 
