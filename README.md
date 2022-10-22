@@ -13,6 +13,7 @@
   - [jeongupark](https://jeongupark-study-house.tistory.com/208)
   - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
 - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
+- [Updating RecyclerView Items](https://todaycode.tistory.com/55)
 
 ## 2022/09
 
