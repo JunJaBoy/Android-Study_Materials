@@ -38,6 +38,7 @@
 | Method Chaining | - [nemomemo](https://nemomemo.tistory.com/40) | 10/22 | |
 | LiveData | - [android developer](https://developer.android.com/topic/libraries/architecture/livedata?hl=ko) | 10/22 | |
 | Abstract Class | - [rkdxowhd](https://rkdxowhd98.tistory.com/23) | 10/22 | Kotlin |
+| Object Expression | - [iosroid](https://iosroid.tistory.com/71) | 10/22 | object = 익명 클래스 |
 
 ---
 
