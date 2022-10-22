@@ -35,6 +35,7 @@
 | Kotlin Property | - [woooooooooooak](https://wooooooak.github.io/kotlin/2019/05/24/property/) | 10/21 | Kotlin |
 | MVVM and DataBinding | - [umbum](https://umbum.dev/915) | 10/21 | |
 | Kotlin Generics | - [codechacha](https://codechacha.com/ko/generics-class-function-in-kotlin/) | 10/22 | Kotlin |
+| Method Chaining | - [nemomemo](https://nemomemo.tistory.com/40) | 10/22 | |
 
 ---
 
