@@ -37,6 +37,7 @@
 | Kotlin Generics | - [codechacha](https://codechacha.com/ko/generics-class-function-in-kotlin/) | 10/22 | Kotlin |
 | Method Chaining | - [nemomemo](https://nemomemo.tistory.com/40) | 10/22 | |
 | LiveData | - [android developer](https://developer.android.com/topic/libraries/architecture/livedata?hl=ko) | 10/22 | |
+| Abstract Class | - [rkdxowhd](https://rkdxowhd98.tistory.com/23) | 10/22 | Kotlin |
 
 ---
 
