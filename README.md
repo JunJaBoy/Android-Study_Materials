@@ -9,6 +9,9 @@
 
 - [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
 - [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
+- Retrofit Call, Response
+  - [jeongupark](https://jeongupark-study-house.tistory.com/208)
+  - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
 
 ## 2022/09
 
