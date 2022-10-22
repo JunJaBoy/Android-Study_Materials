@@ -43,6 +43,7 @@
 | Abstract Class | - [rkdxowhd](https://rkdxowhd98.tistory.com/23) | 10/22 | Kotlin |
 | Object Expression | - [iosroid](https://iosroid.tistory.com/71) | 10/22 | object = 익명 클래스 |
 | Retrofit in Kotlin | - [minchanyoun](https://minchanyoun.tistory.com/44) | 10/22 | |
+| `commit()` type in Fragment Transaction | - [hongbeomi](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%A2%85%EB%A5%98%EC%9D%98-commit-8f646697559f) | 10/22 | |
 
 ---
 
