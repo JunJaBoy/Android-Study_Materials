@@ -9,12 +9,15 @@
 
 - [MarkDown](https://ingu627.github.io/md/markdown_grammar/)
 - [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
-- [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
 - Retrofit Call, Response
   - [jeongupark](https://jeongupark-study-house.tistory.com/208)
   - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
 - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
 - [Updating RecyclerView Items](https://todaycode.tistory.com/55)
+
+## 에러 핸들링
+- [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
+- [InstantiationException](https://lanace.github.io/articles/why-do-not-use-arguments-in-fragment/)
 
 ## 2022/09
 
