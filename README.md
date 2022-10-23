@@ -47,6 +47,7 @@
 | Retrofit in Kotlin | - [minchanyoun](https://minchanyoun.tistory.com/44) | 10/22 | |
 | `commit()` type in Fragment Transaction | - [hongbeomi](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%A2%85%EB%A5%98%EC%9D%98-commit-8f646697559f) | 10/22 | |
 | DiffUtil | - [haero_kim](https://velog.io/@haero_kim/Android-DiffUtil-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) | 10/22 | |
+| LiveData postValue() vs setValue() | - [leveloper](https://leveloper.tistory.com/179) | 10/23 | |
 
 ---
 
