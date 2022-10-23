@@ -26,7 +26,6 @@
 
 | 기술 | 자료 | 참고 (MM/dd) | 비고 |
 | -- | -- | -- | -- |
-| Exception Processing(runCatching vs Try-Catch) |- [developer88](https://developer88.tistory.com/257)| - | |
 | Scope Function | - [limgyumin](https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%9D%98-apply-with-let-also-run-%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-4a517292df29) | - | |
 | Context | - [mrgamza](https://mrgamza.tistory.com/197) | - | |
 | DayNight | - [brandi](https://labs.brandi.co.kr/2019/12/19/kimby.html#h5) | - | |
@@ -51,6 +50,7 @@
 | LiveData postValue() vs setValue() | - [leveloper](https://leveloper.tistory.com/179) | 10/23 | |
 | suspend fun in coroutines | - [kotlinworld](https://kotlinworld.com/144) | 10/23 | |
 | Java Project to Gradle Project | - [viiviii](https://velog.io/@viiviii/IntelliJ-Java-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-Gradle-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0) | 10/23 | |
+| Exception Processing(runCatching vs Try-Catch) |- [developer88](https://developer88.tistory.com/257)<br/>- [uchun](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)| 10/23 | |
 
 ---
 
