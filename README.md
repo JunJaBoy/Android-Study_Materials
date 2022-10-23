@@ -7,17 +7,20 @@
 
 ## 참고 기술
 
-- [MarkDown](https://ingu627.github.io/md/markdown_grammar/)
-- Retrofit Call, Response
-  - [jeongupark](https://jeongupark-study-house.tistory.com/208)
-  - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
-- RecyclerView
-  - [RecyclerView item click event](https://jaeyeong951.medium.com/recyclerview%EC%9D%98-onclicklistener-%EA%B5%AC%ED%98%84-c1c4bf16e90f)
-  - [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
-  - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
-  - [Updating RecyclerView Items](https://todaycode.tistory.com/55)
+### MarkDown
+[MarkDown](https://ingu627.github.io/md/markdown_grammar/)
 
-## 에러 핸들링
+### Retrofit
+- [jeongupark](https://jeongupark-study-house.tistory.com/208)
+- [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
+
+### RecyclerView
+- [RecyclerView item click event](https://jaeyeong951.medium.com/recyclerview%EC%9D%98-onclicklistener-%EA%B5%AC%ED%98%84-c1c4bf16e90f)
+- [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
+- [LiveData in RecyclerView](https://s2choco.tistory.com/26)
+- [Updating RecyclerView Items](https://todaycode.tistory.com/55)
+
+### 에러 핸들링
 - [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
 - [InstantiationException](https://lanace.github.io/articles/why-do-not-use-arguments-in-fragment/)
 
