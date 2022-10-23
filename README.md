@@ -47,10 +47,10 @@
 | Retrofit in Kotlin | - [minchanyoun](https://minchanyoun.tistory.com/44) | 10/22 | |
 | `commit()` type in Fragment Transaction | - [hongbeomi](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%A2%85%EB%A5%98%EC%9D%98-commit-8f646697559f) | 10/22 | |
 | DiffUtil | - [haero_kim](https://velog.io/@haero_kim/Android-DiffUtil-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) | 10/22 | |
-| LiveData postValue() vs setValue() | - [leveloper](https://leveloper.tistory.com/179) | 10/23 | |
+| LiveData postValue() vs setValue() | - [leveloper](https://leveloper.tistory.com/179) | 10/23 | setValue() : Main Thread<br/>postValue() : post to MainThread |
 | suspend fun in coroutines | - [kotlinworld](https://kotlinworld.com/144) | 10/23 | |
 | Java Project to Gradle Project | - [viiviii](https://velog.io/@viiviii/IntelliJ-Java-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-Gradle-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0) | 10/23 | |
-| Exception Processing(runCatching vs Try-Catch) |- [developer88](https://developer88.tistory.com/257)<br/>- [uchun](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)| 10/23 | |
+| Exception Processing(runCatching vs Try-Catch) |- [developer88](https://developer88.tistory.com/257)<br/>- [uchun](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)<br/>- [nanamare](https://nanamare.tistory.com/204)| 10/23 | |
 
 ---
 
