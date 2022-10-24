@@ -64,6 +64,7 @@
 | Exception Processing(runCatching vs Try-Catch) |- [developer88](https://developer88.tistory.com/257)<br/>- [uchun](https://uchun.dev/runCatching%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-kotlin%EC%97%90%EC%84%9C-exception%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95/)<br/>- [nanamare](https://nanamare.tistory.com/204)| 10/23 | |
 | Retrofit | - [salix97](https://salix97.tistory.com/204) | 10/23 | |
 | Kotlin Access Operator | - [conatuseus](https://velog.io/@conatuseus/Kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-open-internal-companion-data-class-%EC%9E%91%EC%84%B1%EC%A4%91) | 10/24 | |
+| Hilt | - [0391kjy](https://0391kjy.tistory.com/55) | 10/25 | |
 
 ---
 
