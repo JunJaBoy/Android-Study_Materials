@@ -66,6 +66,7 @@
 | Kotlin Access Operator | - [conatuseus](https://velog.io/@conatuseus/Kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-open-internal-companion-data-class-%EC%9E%91%EC%84%B1%EC%A4%91) | 10/24 | |
 | Hilt | - [0391kjy](https://0391kjy.tistory.com/55) | 10/25 | |
 | Splash API | - [SungbinLand](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12-%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C-%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0-1729f69dc33f) | 10/25 | |
+| App Startup Time | - [android developer](https://developer.android.com/topic/performance/vitals/launch-time) | 10/25 | |
 
 ---
 
