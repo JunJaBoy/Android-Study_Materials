@@ -5,7 +5,7 @@
 
 # 개발 자료
 
-## 참고 기술
+## 참고 자료
 
 ### MarkDown
 [MarkDown](https://ingu627.github.io/md/markdown_grammar/)
@@ -23,6 +23,11 @@
 - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
 - [Updating RecyclerView Items](https://todaycode.tistory.com/55)
 - [RecyclerView With Room](https://todaycode.tistory.com/34)
+
+### LifeCycle
+#### Activity
+#### Fragment
+- [viewLifeCycleOwner](https://gift123.tistory.com/57)
 
 ### 에러 핸들링
 - [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
