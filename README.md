@@ -22,6 +22,7 @@
 - [RecyclerView 일괄 선택](https://hwanine.github.io/android/Android-Checkbox4/)
 - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
 - [Updating RecyclerView Items](https://todaycode.tistory.com/55)
+- [RecyclerView With Room](https://todaycode.tistory.com/34)
 
 ### 에러 핸들링
 - [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
@@ -69,6 +70,7 @@
 | App Startup Time | - [android developer](https://developer.android.com/topic/performance/vitals/launch-time) | 10/25 | |
 | srcCompat vs src in ImageView | - [ammff](https://ammff.tistory.com/100) | 10/25 | |
 | Room | - [todaycode](https://todaycode.tistory.com/39) | 10/26 | |
+| Constructor | -[conatuseus](https://velog.io/@conatuseus/Kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%BF%8C%EC%8B%9C%EA%B8%B0) | 10/27 | Kotlin |
 
 ---
 
