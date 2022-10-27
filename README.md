@@ -69,7 +69,7 @@
 | Splash API | - [SungbinLand](https://sungbin.land/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C12-%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C-%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0-1729f69dc33f) | 10/25 | |
 | App Startup Time | - [android developer](https://developer.android.com/topic/performance/vitals/launch-time) | 10/25 | |
 | srcCompat vs src in ImageView | - [ammff](https://ammff.tistory.com/100) | 10/25 | |
-| Room | - [todaycode](https://todaycode.tistory.com/39) | 10/26 | |
+| Room | - [todaycode](https://todaycode.tistory.com/39)<br/>- [android developer](https://developer.android.com/codelabs/android-room-with-a-view-kotlin?hl=ko#7) | 10/26 | |
 | Constructor | -[conatuseus](https://velog.io/@conatuseus/Kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%BF%8C%EC%8B%9C%EA%B8%B0) | 10/27 | Kotlin |
 
 ---
