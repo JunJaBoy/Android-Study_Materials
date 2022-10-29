@@ -77,7 +77,7 @@
 | Room | - [todaycode](https://todaycode.tistory.com/39)<br/>- [android developer](https://developer.android.com/codelabs/android-room-with-a-view-kotlin?hl=ko#7) | 10/26 | |
 | Constructor | -[conatuseus](https://velog.io/@conatuseus/Kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%BF%8C%EC%8B%9C%EA%B8%B0) | 10/27 | Kotlin |
 | ViewModel initialization | -[oyunseong](https://velog.io/@oyunseong/Android-ViewModel-%EC%B4%88%EA%B8%B0%ED%99%94-%EB%B0%A9%EB%B2%95) | 10/28 | |
-| Build Config | -[devvkkid](https://devvkkid.tistory.com/201)<br/>-[salix97](https://salix97.tistory.com/236) | 10/29 | |
+| Build Config | -[devvkkid](https://devvkkid.tistory.com/201)<br/>-[salix97](https://salix97.tistory.com/236) | 10/29 | 모두 작성하고 Rebuild Project를 해야 한다 |
 
 ---
 
