@@ -78,6 +78,7 @@
 | Constructor | -[conatuseus](https://velog.io/@conatuseus/Kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%BF%8C%EC%8B%9C%EA%B8%B0) | 10/27 | Kotlin |
 | ViewModel initialization | -[oyunseong](https://velog.io/@oyunseong/Android-ViewModel-%EC%B4%88%EA%B8%B0%ED%99%94-%EB%B0%A9%EB%B2%95) | 10/28 | |
 | Build Config | -[devvkkid](https://devvkkid.tistory.com/201)<br/>-[salix97](https://salix97.tistory.com/236) | 10/29 | 모두 작성하고 Rebuild Project를 해야 한다 |
+| AAC | - [aryangmin](https://medium.com/@maryangmin/android-architecture-components-%EC%86%8C%EA%B0%9C-1-8e04491be1f6) | 10/31 | |
 
 ---
 
