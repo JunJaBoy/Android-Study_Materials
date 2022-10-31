@@ -80,6 +80,8 @@
 | Build Config | -[devvkkid](https://devvkkid.tistory.com/201)<br/>-[salix97](https://salix97.tistory.com/236) | 10/29 | 모두 작성하고 Rebuild Project를 해야 한다 |
 | AAC | - [aryangmin](https://medium.com/@maryangmin/android-architecture-components-%EC%86%8C%EA%B0%9C-1-8e04491be1f6) | 10/31 | |
 | Bundle | - [ilil1](https://velog.io/@ilil1/%EA%B0%9C%EB%85%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Bundle%EB%A1%9C-Data-%EC%A0%84%EB%8B%AC) | 10/31 | |
+| SharedPreferences | - [](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wonjinho81&logNo=220389672520) | 10/31 | |
+
 
 ---
 
