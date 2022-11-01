@@ -81,7 +81,7 @@
 | AAC | - [aryangmin](https://medium.com/@maryangmin/android-architecture-components-%EC%86%8C%EA%B0%9C-1-8e04491be1f6) | 10/31 | |
 | Bundle | - [ilil1](https://velog.io/@ilil1/%EA%B0%9C%EB%85%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Bundle%EB%A1%9C-Data-%EC%A0%84%EB%8B%AC) | 10/31 | |
 | SharedPreferences commit(), apply() | - [휴즈벌](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wonjinho81&logNo=220389672520) | 10/31 |  commit() = 동기, apply() = 비동기 |
-| Context in ViewModel | - [youngest](https://youngest-programming.tistory.com/327) | 11/1 | |
+| Context in ViewModel | - [youngest](https://youngest-programming.tistory.com/327) | 11/1 | ViewModel 내에 View의 Context를 보유하면 안됩니당 |
 
 
 ---
