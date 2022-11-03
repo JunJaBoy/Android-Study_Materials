@@ -34,6 +34,7 @@
 ### 에러 핸들링
 - [Result 에러 핸들링](https://dev-repository.tistory.com/105) 
 - [InstantiationException](https://lanace.github.io/articles/why-do-not-use-arguments-in-fragment/)
+- [Duplicate Class(외부 라이브러리 사용)](https://stackoverflow.com/questions/56716047/execution-failed-for-task-appcheckdebugduplicateclasses-ionic4-android)
 
 ## 2022/09
 
