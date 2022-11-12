@@ -91,6 +91,7 @@
 | Flow | -[hongbeomi](https://medium.com/hongbeomi-dev/%EC%A0%95%EB%A6%AC-%EC%BD%94%ED%8B%80%EB%A6%B0-flow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-android-dev-summit-2021-3606429f3c5f) | 11/2 | |
 | Status Code Handling | -[zion](https://zion830.tistory.com/157?category=797475) | 11/2 | |
 | Material Custom Calendar View | -[onlyfor-me](https://onlyfor-me-blog.tistory.com/437) | 11/4 | |
+| Kotlin Contracts | -[Harry](https://medium.com/harrythegreat/kotlin-contracts-%EB%AC%B8%EB%B2%95-%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0-9ffdc399aa75) | 11/12 | |
 
 ---
 
