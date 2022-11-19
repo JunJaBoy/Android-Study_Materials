@@ -94,6 +94,7 @@
 | Kotlin Contracts | -[Harry](https://medium.com/harrythegreat/kotlin-contracts-%EB%AC%B8%EB%B2%95-%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0-9ffdc399aa75) | 11/12 | |
 | Google map in fragment | -[whdals](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=whdals0&logNo=221039502466) | 11/15 | |
 | XML과 UI Controller 분리 | -[](https://kobbi-reply.tistory.com/26)<br/>-[black jin](https://black-jin0427.tistory.com/134)<br/>= [fornewid](https://fornewid.medium.com/android-ktx-databinding%EC%9C%BC%EB%A1%9C-view-layer-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EF%B8%8F-690cd61aec3d) | 11/16 | |
+| Remove Button Default Padding | -[alwayswakeup](https://alwayswakeup.tistory.com/33) | 11/19 | |
 
 ---
 
