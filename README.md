@@ -97,7 +97,7 @@
 | Remove Button Default Padding | -[alwayswakeup](https://alwayswakeup.tistory.com/33) | 11/19 | |
 | EditText AutoFillContent | -[e2xist](https://e2xist.tistory.com/674) | 11/23 | |
 | CardView Elevation | -[thepassion](https://thepassion.tistory.com/319) | 11/23 | |
-| FloatingActionButton | -[android developer](https://developer.android.com/guide/topics/ui/floating-action-button?hl=ko) | 11/24 | |
+| FloatingActionButton | -[android developer](https://developer.android.com/guide/topics/ui/floating-action-button?hl=ko)<br/>-[wooastory](https://wooastory.tistory.com/85) | 11/24 | FloatingActionButton은 Material 테마를 사용하여야 적용할 수 있으며, 앱 전체 테마를 바꾸면서 기존 기본 Button들 또한 Material Button으로 대체되므로 배경 Drawable 등 주의가 필요하다. |
 
 ---
 
