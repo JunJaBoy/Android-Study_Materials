@@ -18,6 +18,8 @@
 - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
 - POST
   - [cishome](https://cishome.tistory.com/137)  
+- Network Timeout
+  - [hijjangg2](https://hijjang2.tistory.com/448)
 
 ### RecyclerView
 - [RecyclerView item click event](https://jaeyeong951.medium.com/recyclerview%EC%9D%98-onclicklistener-%EA%B5%AC%ED%98%84-c1c4bf16e90f)
