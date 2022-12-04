@@ -27,6 +27,7 @@
 - [LiveData in RecyclerView](https://s2choco.tistory.com/26)
 - [Updating RecyclerView Items](https://todaycode.tistory.com/55)
 - [RecyclerView With Room](https://todaycode.tistory.com/34)
+- [RecyclerView with DataBinding](https://velog.io/@dear_jjwim/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-RecyclerView-Adapter-View-Binding-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ### LifeCycle
 #### Activity
