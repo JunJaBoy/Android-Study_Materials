@@ -104,7 +104,8 @@
 | Finishing activities in android | -[bottom2top](https://bottom2top.tistory.com/2) | 11/29 | |
 | ViewHolder Usage | -[thev](https://thdev.tech/android/2018/01/31/Recycler-Adapter-Distinguish/) | 12/3 | |
 | Kotlin star projection (* in Generic | -[readystory](https://readystory.tistory.com/201) | 12/4 | <out T>와 비슷하지만, 타입에 대한 읽기만 가능하며 쓰기는 불가능하다. | Layout recycle | -[android developer](https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts?hl=ko) | 12/7 |
-| Databinding with <include> | -[stackoverflow](https://stackoverflow.com/questions/58147214/view-binding-not-work-with-include-incompatible-types-progressbarlayoutbindi)<br/>-[uchun](https://uchun.dev/include-issue-of-databinding-with-viewbinding/) | 12/8| |
+| Databinding with <include> | -[stackoverflow](https://stackoverflow.com/questions/58147214/view-binding-not-work-with-include-incompatible-types-progressbarlayoutbindi)<br/>-[uchun](https://uchun.dev/include-issue-of-databinding-with-viewbinding/) | 12/8 | |
+| tools:context | -[dayjms](https://dayjms.tistory.com/entry/toolscontext-%EC%9D%98-%EC%97%AD%ED%95%A0) | 12/8 | |
 
 ---
 
