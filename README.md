@@ -90,6 +90,11 @@
 | AAC | - [aryangmin](https://medium.com/@maryangmin/android-architecture-components-%EC%86%8C%EA%B0%9C-1-8e04491be1f6) | 10/31 | |
 | Bundle | - [ilil1](https://velog.io/@ilil1/%EA%B0%9C%EB%85%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Bundle%EB%A1%9C-Data-%EC%A0%84%EB%8B%AC) | 10/31 | |
 | SharedPreferences commit(), apply() | - [휴즈벌](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wonjinho81&logNo=220389672520) | 10/31 |  commit() = 동기, apply() = 비동기 |
+
+## 2022/11
+
+| 기술 | 자료 | 참고 (MM/dd) | 비고 |
+| -- | -- | -- | -- |
 | Context in ViewModel | - [youngest](https://youngest-programming.tistory.com/327) | 11/1 | ViewModel 내에 View의 Context를 보유하면 안됩니당 |
 | Flow | -[hongbeomi](https://medium.com/hongbeomi-dev/%EC%A0%95%EB%A6%AC-%EC%BD%94%ED%8B%80%EB%A6%B0-flow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-android-dev-summit-2021-3606429f3c5f) | 11/2 | |
 | Status Code Handling | -[zion](https://zion830.tistory.com/157?category=797475) | 11/2 | |
@@ -102,10 +107,16 @@
 | CardView Elevation | -[thepassion](https://thepassion.tistory.com/319) | 11/23 | |
 | FloatingActionButton | -[android developer](https://developer.android.com/guide/topics/ui/floating-action-button?hl=ko)<br/>-[wooastory](https://wooastory.tistory.com/85) | 11/24 | FloatingActionButton은 Material 테마를 사용하여야 적용할 수 있으며, 앱 전체 테마를 바꾸면서 기존 기본 Button들 또한 Material Button으로 대체되므로 배경 Drawable 등 주의가 필요하다. |
 | Finishing activities in android | -[bottom2top](https://bottom2top.tistory.com/2) | 11/29 | |
+
+## 2022/12
+
+| 기술 | 자료 | 참고 (MM/dd) | 비고 |
+| -- | -- | -- | -- |
 | ViewHolder Usage | -[thev](https://thdev.tech/android/2018/01/31/Recycler-Adapter-Distinguish/) | 12/3 | |
 | Kotlin star projection (* in Generic | -[readystory](https://readystory.tistory.com/201) | 12/4 | <out T>와 비슷하지만, 타입에 대한 읽기만 가능하며 쓰기는 불가능하다. | Layout recycle | -[android developer](https://developer.android.com/develop/ui/views/layout/improving-layouts/reusing-layouts?hl=ko) | 12/7 |
 | Databinding with <include> | -[stackoverflow](https://stackoverflow.com/questions/58147214/view-binding-not-work-with-include-incompatible-types-progressbarlayoutbindi)<br/>-[uchun](https://uchun.dev/include-issue-of-databinding-with-viewbinding/) | 12/8 | |
 | tools:context | -[dayjms](https://dayjms.tistory.com/entry/toolscontext-%EC%9D%98-%EC%97%AD%ED%95%A0) | 12/8 | |
+| Shared ViewModel by Fragments | -[thdev](https://thdev.tech/androiddev/2020/07/13/Android-Fragment-ViewModel-Example/) | 12/9 | |
 
 ---
 
