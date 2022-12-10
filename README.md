@@ -117,6 +117,7 @@
 | Databinding with <include> | -[stackoverflow](https://stackoverflow.com/questions/58147214/view-binding-not-work-with-include-incompatible-types-progressbarlayoutbindi)<br/>-[uchun](https://uchun.dev/include-issue-of-databinding-with-viewbinding/) | 12/8 | |
 | tools:context | -[dayjms](https://dayjms.tistory.com/entry/toolscontext-%EC%9D%98-%EC%97%AD%ED%95%A0) | 12/8 | |
 | Shared ViewModel by Fragments | -[thdev](https://thdev.tech/androiddev/2020/07/13/Android-Fragment-ViewModel-Example/) | 12/9 | |
+| Project Module | -[level](https://leveloper.tistory.com/201) | 12/10 | |
 
 ---
 
