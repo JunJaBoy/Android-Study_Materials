@@ -62,7 +62,7 @@
 | Circle ImageView | - [jeong9216](https://jeong9216.tistory.com/9) | 10/12 | |
 | Gradle | - [kotlinWorld](https://kotlinworld.com/311) | 10/13 | |
 | KTS Build Configuration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | |
-| groovy -> kts build tool migration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko) | 10/13 | [버그 수정 참고 자료](https://yjyoon-dev.github.io/android/2022/07/01/android-06/) |
+| groovy -> kts build tool migration | - [android developer](https://developer.android.com/studio/build/migrate-to-kts?hl=ko)<br/>- [kotlinworld](https://kotlinworld.com/121)<br/>- [charlezz](https://www.charlezz.com/?p=45140)<br/>- []() | 12/22 | [버그 수정 참고 자료](https://yjyoon-dev.github.io/android/2022/07/01/android-06/) |
 | Fragment에서 container(Activity)의 context 사용 | - [curryyou](https://curryyou.tistory.com/m/386) | 10/17 | |
 | Reflection in Kotlin | - [harrythegreat](https://medium.com/harrythegreat/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%8D%94%EB%B8%94%EC%BD%9C%EB%A1%A0-%EC%B0%B8%EC%A1%B0-73ff25484586) | 10/19 | Kotlin |
 | Kotlin Delegate Pattern, by | - [zerogdev](https://zerogdev.blogspot.com/2019/06/kotlin-by.html) | 10/20 | Kotlin |
