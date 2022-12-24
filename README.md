@@ -12,6 +12,7 @@
 
 ### Clean Architecture
 - [예제 및 기본 개념](https://youngest-programming.tistory.com/484)
+    - [black-jin](https://black-jin0427.tistory.com/225)
 - Use Case
     - [cchloe](https://velog.io/@cchloe2311/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-UseCase%EB%A5%BC-%EC%99%9C-%EC%93%B0%EB%82%98%EC%9A%94)
 
