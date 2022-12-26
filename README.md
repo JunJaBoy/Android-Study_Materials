@@ -137,6 +137,7 @@
 | Project Module | -[leveloper](https://leveloper.tistory.com/201) | 12/10 | |
 | buildSrc를 사용한 의존성 관리 | -[leveloper](https://leveloper.tistory.com/206)<br/>-[yuuuzzzin](https://velog.io/@yuuuzzzin/Android-buildSrc-Kotlin-DSL%EB%A1%9C-Dependency-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) | 12/22 | |
 | KAPT 적용 | -[3edc](https://3edc.tistory.com/65) | 12/22 | |
+| EditText autoFillHints 속성 | -[e2xist](https://e2xist.tistory.com/674) | 12/26 | |
   
 ---
 
