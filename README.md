@@ -18,7 +18,7 @@
 - Use Case
     - [cchloe](https://velog.io/@cchloe2311/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-UseCase%EB%A5%BC-%EC%99%9C-%EC%93%B0%EB%82%98%EC%9A%94)
 
-## Hilt
+### Hilt
 - Hilt 적용
   - [lovestudycom](https://lovestudycom.tistory.com/entry/Android-Hilt%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85)
   - [haanbink](https://velog.io/@haanbink/Android-Hilt-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -32,6 +32,7 @@
 
 ### Retrofit
 - [jeongupark](https://jeongupark-study-house.tistory.com/208)
+- [galid1](https://galid1.tistory.com/617)
 - [cmjh951330](https://velog.io/@cmjh951330/restrofit2-method)
 - POST
   - [cishome](https://cishome.tistory.com/137)  
