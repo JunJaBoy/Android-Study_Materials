@@ -143,6 +143,7 @@
 | KAPT 적용 | -[3edc](https://3edc.tistory.com/65) | 12/22 | |
 | EditText autoFillHints 속성 | -[e2xist](https://e2xist.tistory.com/674) | 12/26 | |
 | @TargetApi, @RequireApi | -[easy-coding](https://easy-coding.tistory.com/32) | 12/26 | |
+| ViewModelStoreOwner로 Activity간 ViewModel 공유 | -[zion](https://zion830.tistory.com/72) | 12/31 | |
   
 ---
 
