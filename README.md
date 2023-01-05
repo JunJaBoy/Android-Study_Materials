@@ -145,6 +145,12 @@
 | @TargetApi, @RequireApi | -[easy-coding](https://easy-coding.tistory.com/32) | 12/26 | |
 | ViewModelStoreOwner로 Activity간 ViewModel 공유 | -[zion](https://zion830.tistory.com/72) | 12/31 | |
   
+## 2023/01
+
+| 기술 | 자료 | 참고(MM/dd) | 비고 |
+| -- | -- | -- | -- |
+| Android Jitpack | -[taewhan](https://thdev.tech/androiddev/2016/09/14/Android-AAR-Publish-Jit/) | 01/05 | |
+  
 ---
 
 # TODO
