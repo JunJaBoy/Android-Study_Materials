@@ -151,6 +151,7 @@
 | 기술 | 자료 | 참고(MM/dd) | 비고 |
 | -- | -- | -- | -- |
 | Android Jitpack | -[taewhan](https://thdev.tech/androiddev/2016/09/14/Android-AAR-Publish-Jit/) | 01/05 | |
+| SharedPreferences in Clean Architecture | -[buildcoding](https://buildcoding.com/access-save-shared-preferences-with-clean-architecture/) | 01/09 | |
   
 ---
 
